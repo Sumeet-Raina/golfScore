@@ -3,5 +3,7 @@ var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", 
 function golfScore(par, strokes) { 
   if (strokes == 1) {
     return names[0];
+  } else if (strokes <= par - 2) {
+    return names[1];
   }
 }
