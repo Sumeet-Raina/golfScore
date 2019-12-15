@@ -18,3 +18,5 @@ function golfScore(par, strokes) {
   }
 }
 
+// Change these values to test
+golfScore(5, 4);
