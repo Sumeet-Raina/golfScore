@@ -18,7 +18,8 @@
 par and strokes will always be numeric and positive. </p>
 	
 
-
+ ## Given Array :
+  <h4><strong> var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"]; </strong></h4>
 
 
 
