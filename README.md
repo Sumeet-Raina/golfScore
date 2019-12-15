@@ -22,4 +22,7 @@ par and strokes will always be numeric and positive. </p>
   <h4><strong> var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"]; </strong></h4>
 
 
-
+# How to install it
+```
+git clone repo_name
+```
